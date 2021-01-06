@@ -1,0 +1,12 @@
+---
+name: ParaView
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: |
+  This page will launch [ParaView] on a compute node in the [Katana
+  cluster].  Once your session starts and you are connected via the
+  Launch button, you may need to manually maximise the application.
+
+  [ParaView]: https://www.paraview.org/
+  [Katana cluster]: https://unsw-restech.github.io/restech-docs
